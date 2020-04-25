@@ -1,0 +1,9 @@
+flask
+sklearn
+gunicorn
+praw
+nltk
+contractions
+inflect
+pandas
+pickle-mixin
