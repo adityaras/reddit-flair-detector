@@ -73,7 +73,14 @@ The App should now start running locally (generally) at port 5000, in your local
 
 
 Note:
-The above commands are specific to a UNIX based system. You might need to check the commands of creating a virtual environment on other systems to run the App.
+The above commands are specific to a UNIX based system. You might need to check the commands of creating a virtual environment on other systems to run the App on your system.
+
+### Automated Testing
+The route for automated testing has also been provided in the flask app  as (/automated_testing), The app expects a POST request with a text file being sent bundled with it using the key _upload_file_. The text file should have URL's from r/india separated by a '\n' character. In case of a URL which is not a valid link to any post the app returns an error string with the message: "No post with given URL". The app returns a json object with the URL as key and the Predicted Flair as the value for the corresponding Key/Value.
+
+### Error Prevention
+1. The WebApp doesn't accept any empty strings. (Gives the User an empty string Warning)
+2. In case of an Invalid URL the page returns a message : "No post with given URL". 
 
 ### Sources (also in the sources.txt file)
 I am fairly new in the field of Data Science specially NLP and the how do we go about the whole process.
