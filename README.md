@@ -52,18 +52,28 @@ Heroku App Deployed on: http://redditflairaditya.herokuapp.com/
 ### How to run Locally (on your machine)
 1. Clone the Git Repo.
 2. (Extract if required) Now go inside the Cloned directory and create a virtual environment.
-'''
+```bash
 python3 -m venv <name of your virtual env. (can be anything)>
-'''
-Create a virtual environment (inside the cloned folder):
-virtualenv -p /usr/bin/python3 virtualenvironment/
-Activate virtual environment:
-source virtualenvironment/bin/activate
-Install dependencies in requirements.txt:
-pip3 install -r requirements.txt
-Start the application:
+```
+3. Now run your created virtual env. using the commannd
+```bash
+source /<name of your virtual env. (can be anything)>/bin/activate
+```
+4. Install dependencies from requirement.txt:
+```bash
+pip3 install -r requirement.txt
+```
+5. Now Start the python application
+```bash
 python3 app.py
-Go to your local host server mentioned in the terminal and use the flair detector!
+```
+
+Voila! You are done!
+The App should now start running locally (generally) at port 5000, in your localhost.
+
+
+Note:
+The above commands are specific to a UNIX based system. You might need to check the commands of creating a virtual environment on other systems to run the App.
 
 ### Sources (also in the sources.txt file)
 I am fairly new in the field of Data Science specially NLP and the how do we go about the whole process.
