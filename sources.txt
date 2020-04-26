@@ -1,4 +1,4 @@
-I am fairly new in the field of Data Science specially NLP and the how we about the hole process.
+I am fairly new in the field of Data Science specially NLP and the how do we go about the whole process.
 
 As a result throughout the project I followed/ took help from a number of Online Resources, Video Tutorials.
 Below are the links to some of those resources which were the most helpful to me throughout the project, topic-wise.
