@@ -1,4 +1,4 @@
-# reddit-flair-detector
+# Reddit-Flair-Detector
 ## App that claasifies a post from Reddit using Natural Language Processing (NLP) and Classification Modeling.
 
 ### Data Extraction and Cleaning
