@@ -85,7 +85,9 @@ https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-72
 ##### Apart from this, official documentation pages of praw, sklearn, rethinkDB were also quite useful for me!
 
 praw: https://praw.readthedocs.io/en/latest/
+
 sklearn: https://scikit-learn.org/stable/user_guide.html
+
 rethinkDB: https://rethinkdb.com/docs
 
 ##### Lastly, The image for the background was taken from Google Images (Free to Use), and many elements for html page (css styles) were also taken from Internet with Free to Use licenses.
