@@ -82,6 +82,24 @@ The route for automated testing has also been provided in the flask app  as (/au
 1. The WebApp doesn't accept any empty strings. (Gives the User an empty string Warning)
 2. In case of an Invalid URL the page returns a message : "No post with given URL". 
 
+### File Structure for the Webapp (which was deployed to Heroku)
+```bash
+├── app.py
+├── nltk.txt
+├── Procfile
+├── requirements.txt
+├── model
+│   ├── model_1lr.pkl
+│   ├── model_final.pkl
+├── static
+│   └── bg.png
+└── templates
+    └── main.html
+
+3 directories, 8 files
+
+```
+
 ### Sources (also in the sources.txt file)
 I am fairly new in the field of Data Science specially NLP and the how do we go about the whole process.
 
