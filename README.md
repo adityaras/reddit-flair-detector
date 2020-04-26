@@ -48,7 +48,7 @@ I am fairly new in the field of Data Science specially NLP and the how do we go 
 As a result, throughout the project I followed/ took help from a number of Online Resources, Video Tutorials.
 Below are the links to some of those resources which were the most helpful to me throughout the project, topic-wise.
 
-1) DATA EXTRACTION & CLEANING.
+#### 1) DATA EXTRACTION & CLEANING.
 
 A great article that simply talks what data is, what makes it good, what makes it bad etc.
 https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726
@@ -60,14 +60,14 @@ https://towardsdatascience.com/what-is-data-cleaning-how-to-process-data-for-ana
 A very in-depth article which I found relatively easier to follow along than others online. (Also contains important Code Snippets)
 https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html
 
-2) Data Analysis
+#### 2) Data Analysis
 A YouTube Video link that focusses primarily on seaborn and matplotlib to plot graphs.
 https://www.youtube.com/watch?v=5NcbVYhQJvw
 
 Another article which was very easy to follow along (the dataset it uses is also available, link in the article)
 https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 
-3) Data Training and Testing
+#### 3) Data Training and Testing
 A good starting point,
 https://www.digitalocean.com/community/tutorials/how-to-build-a-machine-learning-classifier-in-python-with-scikit-learn
 
@@ -75,18 +75,18 @@ These articles talks about how pipelining can be useful.
 https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-pipeline-using-scikit-learn/
 https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976
 
-4) Creating a WebApp and deploying to Heroku
+#### 4) Creating a WebApp and deploying to Heroku
 An excellent Flask Tutorial (Video Tutorial + Blog)
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 Great Article which takes you through the whole process from start to finish
 https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
 
-Apart from this, official documentation pages of praw, sklearn, rethinkDB were also quite useful for me!
+##### Apart from this, official documentation pages of praw, sklearn, rethinkDB were also quite useful for me!
 
 praw: https://praw.readthedocs.io/en/latest/
 sklearn: https://scikit-learn.org/stable/user_guide.html
 rethinkDB: https://rethinkdb.com/docs
 
-Lastly, The image for the background was taken from Google Images (Free to Use), and many elements for html page (css styles) were also taken from Internet with Free to Use licenses.
+##### Lastly, The image for the background was taken from Google Images (Free to Use), and many elements for html page (css styles) were also taken from Internet with Free to Use licenses.
 
