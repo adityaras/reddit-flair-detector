@@ -2,6 +2,8 @@ import flask
 import pickle
 import praw
 import nltk
+nltk.download("stopwords")
+nltk.download("punkt")
 from nltk.corpus import stopwords
 import contractions
 import inflect
