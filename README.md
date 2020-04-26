@@ -25,6 +25,8 @@ I tried out various combinations of the data that I had extracted, trying out al
 4. Random Forest
 5. Linear Suport Vector Machine
 
+Also I started with a 80:20 Testing and Training Split for my data, and then finally settled at a 90:10 Testing and Training Split.
+
 ##### 1.
 First of all  I started with the *Individual* attributes i.e. titles, comments, url, body individually to see how the model was performing. Here because of the inconsistency of data for body and comments the model could simply be not run ( as for some flairs even in 100 there was not a single post with any body/comment). For title and url the accuracy was somewhere in the neighbourhood of *40%-45%*.
 
@@ -69,7 +71,7 @@ python3 app.py
 ```
 
 Voila! You are done!
-The App should now start running locally (generally) at port 5000, in your localhost.
+The App should now start running locally  at port 5000 (generally), in your localhost.
 
 
 Note:
