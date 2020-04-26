@@ -31,7 +31,7 @@ First of all  I started with the *Individual* attributes i.e. titles, comments, 
 ##### 2.
 Now I started *grouping* the attributes together. I had expected the combination of [title, body, comments, url] i.e. all the data I had extracted for the purpose of training except for the flair itself to perform the best, but due to the inconsistencies of the data in body and comments the accuracy remained at about *60%-65%*. Then I started to remove these inconsistent data sets one by one to check my accuracy levels and I got the *highest* accuracy for the _combination [title, url, comments]_ for Logistic Regression at *70%*. 
 
-The below table mentions the acuuracy of all the 5 model for the combination *title + url + comment*, which had the highest accuracy.
+The below table mentions the accuracy of all the 5 model for the combination *title + url + comment*, which had the highest accuracy.
 
 | Model        | Accuracy          | 
 | ------------- |:-------------:| 
