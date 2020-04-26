@@ -10,7 +10,7 @@ I looked at whether a particular attribute for a data was empty or not (Using a 
 I also tried to look at the 10 most reappearing words in the title, comment, body flairwise.
 The rationale behind this was again to try to realize the uniqueness or even similarities for the flairs that I had chosen.
 
-Some interesting Insights that I got were, for the flair "Politics" _modi_ was a word that was quite often used. Overall words like _india_ and _coronavirus_ dominated the most reappearing words due to the current scenario. Also the body of more than 50% posts that I extracted was empty.
+Some interesting Insights that I got were, for the flair "Politics" _modi_ was a word that was quite often used. Overall words like _india_ and _coronavirus_ dominated the most reappearing words due to the current scenario. Also the body of more than 50% posts that I extracted was empty (900 out of 1500).
 
 ### Data Training and Testing
 
