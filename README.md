@@ -48,7 +48,7 @@ I am fairly new in the field of Data Science specially NLP and the how do we go 
 As a result, throughout the project I followed/ took help from a number of Online Resources, Video Tutorials.
 Below are the links to some of those resources which were the most helpful to me throughout the project, topic-wise.
 
-#### 1) DATA EXTRACTION & CLEANING.
+#### 1) Data Extraction and Cleaning.
 
 A great article that simply talks what data is, what makes it good, what makes it bad etc.
 https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726
