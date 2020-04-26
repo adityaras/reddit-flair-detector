@@ -59,7 +59,7 @@ python3 -m venv <name of your virtual env. (can be anything)>
 ```
 3. Now run your created virtual env. using the commannd
 ```bash
-source /<name of your virtual env. (can be anything)>/bin/activate
+source <name of your virtual env. (can be anything)>/bin/activate
 ```
 4. Install dependencies from requirement.txt:
 ```bash
