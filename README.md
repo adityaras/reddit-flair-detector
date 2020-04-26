@@ -50,7 +50,20 @@ The web app is present in the /webapp directory. The app has a Flask Backend and
 Heroku App Deployed on: http://redditflairaditya.herokuapp.com/
 
 ### How to run Locally (on your machine)
-tada
+1. Clone the Git Repo.
+2. (Extract if required) Now go inside the Cloned directory and create a virtual environment.
+'''
+python3 -m venv <name of your virtual env. (can be anything)>
+'''
+Create a virtual environment (inside the cloned folder):
+virtualenv -p /usr/bin/python3 virtualenvironment/
+Activate virtual environment:
+source virtualenvironment/bin/activate
+Install dependencies in requirements.txt:
+pip3 install -r requirements.txt
+Start the application:
+python3 app.py
+Go to your local host server mentioned in the terminal and use the flair detector!
 
 ### Sources (also in the sources.txt file)
 I am fairly new in the field of Data Science specially NLP and the how do we go about the whole process.
