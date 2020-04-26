@@ -35,11 +35,11 @@ The below table mentions the acuuracy of all the 5 model for the combination *ti
 
 | Model        | Accuracy          | 
 | ------------- |:-------------:| 
-| Naive Bayes (NB)      | $54.66 | 
-| Stochastic Gradient Descent (SGD)    | $64.00     |   
-| Logistic Regression (LOGREG) | $69.33      | 
-| Random Forest (RM) | $59.33     | 
-| Linear Suport Vector Machine (SVM) | $68.66   | 
+| Naive Bayes (NB)      | 54.66 | 
+| Stochastic Gradient Descent (SGD)    | 64.00     |   
+| Logistic Regression (LOGREG) | 69.33      | 
+| Random Forest (RM) | 59.33     | 
+| Linear Suport Vector Machine (SVM) | 68.66   | 
 
 As also I mentioned in the EDA file the longer length of Comments for the flair _[R]eddiquette_, the flair had the highest accuracy levels in almost all the 5 models that I tried.
 
