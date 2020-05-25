@@ -1,5 +1,5 @@
 # Reddit-Flair-Detector
-## App that claasifies a post from Reddit using Natural Language Processing (NLP) and Classification Modeling.
+## App that classifies a post from Reddit using Natural Language Processing (NLP) and Classification Modeling.
 
 ### Data Extraction and Cleaning
 I ectracted the Data using the praw API. I selected *15* flairs based on their number of occurrences (available in flair.txt in /Extraction and Cleaning). Also some of the flairs were simply selected because of their popularity as they pertain to recent events. (For Eg: Coronavirus, CAA-NRC). At first I extracted 100 posts for each flair alongwith 10  top comments per posts. Later on I extracted the data again with 100 posts per flair, but with 20 top comments. This was done due to two main reasons, firstly to try and increase my Model's Accuracy and secondly to get a little variance in the nature of the comments. (Top 10 comments were almost similar, 20 comments meant a little more variation albeit a little off-topic)
